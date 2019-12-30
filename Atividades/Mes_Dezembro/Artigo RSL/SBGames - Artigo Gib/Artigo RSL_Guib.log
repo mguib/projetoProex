@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.11.3)  30 DEC 2019 12:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.11.3)  30 DEC 2019 14:02
 entering extended mode
 **"./Artigo RSL_Guib.tex"
 ("Artigo RSL_Guib.tex"
@@ -166,12 +166,6 @@ LaTeX Warning: Label `GDD' multiply defined.
 
 LaTeX Warning: Label `GDD' multiply defined.
 
-
-LaTeX Warning: Label `tab2' multiply defined.
-
-
-LaTeX Warning: Label `diagramaTelas' multiply defined.
-
 )
 \openout1 = `"Artigo RSL_Guib.aux"'.
 
@@ -251,51 +245,68 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 61.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 61.
 
-Underfull \hbox (badness 2111) in paragraph at lines 65--66
-\OT1/ptm/m/n/10 prob-le-mas em partes menores. O Re-con-hec-i-mento de
- []
+
+LaTeX Warning: Reference `fig1' on page 1 undefined on input line 98.
+
+
+LaTeX Warning: Characters dropped after `\end{comment}' on input line 121.
 
 [1{C:/Users/mgssl/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 82.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 82.
-
-
-LaTeX Warning: Reference `fig1' on page 2 undefined on input line 88.
-
-
-LaTeX Warning: Characters dropped after `\end{comment}' on input line 111.
-
-
-Underfull \hbox (badness 1888) in paragraph at lines 117--118
+Underfull \hbox (badness 1888) in paragraph at lines 127--128
 \OT1/ptm/m/n/10 s[]ao ap-re-sen-tadas informa[][]oes de-tal-hadas do jogo,
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 132--133
+Underfull \hbox (badness 1668) in paragraph at lines 142--143
 \OT1/ptm/m/n/10 fi-del-i-dade seguiu as di-re-trizes pre-sentes no GDD
  []
 
-[2]
-Underfull \hbox (badness 1635) in paragraph at lines 170--171
+
+Underfull \hbox (badness 1635) in paragraph at lines 180--181
 []\OT1/ptm/b/n/10 Documenta[][]ao: \OT1/ptm/m/n/10 Du-rante to-das as eta-pas d
 o pro-
  []
 
+[2]
 
-LaTeX Warning: Characters dropped after `\end{comment}' on input line 354.
+LaTeX Warning: Reference `diagramaTelas' on page 3 undefined on input line 207.
 
-[3]
-Underfull \hbox (badness 1789) in paragraph at lines 419--420
+
+
+LaTeX Warning: Reference `fig9' on page 3 undefined on input line 220.
+
+
+LaTeX Warning: Reference `faseTutorial' on page 3 undefined on input line 220.
+
+
+LaTeX Warning: Reference `fase2' on page 3 undefined on input line 220.
+
+
+LaTeX Warning: Reference `faseFinal' on page 3 undefined on input line 220.
+
+
+LaTeX Warning: Characters dropped after `\end{comment}' on input line 364.
+
+
+LaTeX Warning: Reference `tab2' on page 3 undefined on input line 376.
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 429--430
 []\OT1/ptm/m/n/10 Com o uso de uma das vers[]oes dos pro-du-tos do
  []
 
-("Artigo RSL_Guib.bbl"
+
+LaTeX Warning: Reference `Tab6' on page 3 undefined on input line 431.
+
+("Artigo RSL_Guib.bbl" [3]
 Underfull \hbox (badness 10000) in paragraph at lines 71--73
 []\OT1/ptm/m/n/9 B. Learn-ing, ``What is com-pu-ta-tional think-
  []
@@ -309,7 +320,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 108.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 108.
-[4])
+)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -321,9 +332,7 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[5
-
-] ("Artigo RSL_Guib.aux")
+[4] ("Artigo RSL_Guib.aux")
 
 LaTeX Warning: There were undefined references.
 
@@ -332,10 +341,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3441 strings out of 492895
- 57496 string characters out of 3133479
- 134137 words of memory out of 3000000
- 7341 multiletter control sequences out of 15000+200000
+ 3436 strings out of 492895
+ 57426 string characters out of 3133479
+ 135037 words of memory out of 3000000
+ 7336 multiletter control sequences out of 15000+200000
  37621 words of font info for 71 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,8n,40p,1117b,340s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -346,9 +355,9 @@ pe1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/t
 imes/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files
 /MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "Artigo RSL_Guib.pdf" (5 pages, 110801 bytes).
+Output written on "Artigo RSL_Guib.pdf" (4 pages, 108222 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
+ 44 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
