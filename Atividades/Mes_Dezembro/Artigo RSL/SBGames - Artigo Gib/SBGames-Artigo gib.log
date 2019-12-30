@@ -1,0 +1,465 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.11.3)  18 DEC 2019 03:30
+entering extended mode
+**"./SBGames-Artigo gib.tex"
+("SBGames-Artigo gib.tex"
+LaTeX2e <2018-12-01>
+(IEEEtran.cls
+Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count80
+\@IEEEtrantmpcountB=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 373.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count91
+\@IEEEtranrubishbin=\box27
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen117
+\Gin@req@width=\dimen118
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\subcaption.sty"
+Package: subcaption 2019/09/01 v1.3a Sub-captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption.sty"
+Package: caption 2019/09/01 v3.3d Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption3.sty"
+Package: caption3 2019/09/01 v1.8d caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen119
+\captionmargin@=\dimen120
+\captionwidth=\dimen121
+\caption@tempdima=\dimen122
+\caption@indent=\dimen123
+\caption@parindent=\dimen124
+\caption@hangindent=\dimen125
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEta
+blestring \footnotesize \begin {center}{\normalfont \footnotesize #1}\\{\normal
+font \footnotesize \scshape #2}\end {center}\@IEEEtablecaptionsepspace \else \@
+IEEEfigurecaptionsepspace \setbox \@tempboxa \hbox {\normalfont \footnotesize {
+#1.}~~ #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\normalfont \
+footnotesize {#1.}~~ }\parbox [t]{\hsize }{\normalfont \footnotesize \noindent 
+\unhbox \@tempboxa #2}\else \ifCLASSOPTIONconference \hbox to\hsize {\normalfon
+t \footnotesize \hfil \box \@tempboxa \hfil }\else \hbox to\hsize {\normalfont 
+\footnotesize \box \@tempboxa \hfil }\fi \fi \fi .
+\c@caption@flags=\count92
+\c@ContinuedFloat=\count93
+)
+\c@subfigure=\count94
+\c@subtable=\count95
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\verbatim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks16
+\verbatim@line=\toks17
+\verbatim@in@stream=\read1
+)
+("SBGames-Artigo gib.aux"
+
+LaTeX Warning: Label `prototipo1' multiply defined.
+
+
+LaTeX Warning: Label `prototipo1' multiply defined.
+
+
+LaTeX Warning: Label `prototipo1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `GDD' multiply defined.
+
+
+LaTeX Warning: Label `GDD' multiply defined.
+
+
+LaTeX Warning: Label `tab2' multiply defined.
+
+
+LaTeX Warning: Label `diagramaTelas' multiply defined.
+
+)
+\openout1 = `"SBGames-Artigo gib.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+ ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count96
+\scratchdimen=\dimen126
+\scratchbox=\box28
+\nofMPsegments=\count97
+\nofMParguments=\count98
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count99
+\MPscratchDim=\dimen127
+\MPnumerator=\count100
+\makeMPintoPDFobject=\count101
+\everyMPtoPDFconversion=\toks19
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 20.
+ [1{C:/Users/mgssl/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
+Underfull \hbox (badness 2111) in paragraph at lines 83--84
+\OT1/ptm/m/n/10 prob-le-mas em partes menores. O Re-con-hec-i-mento de
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 100.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 100.
+[2]
+<Figuras/fig1.png, id=14, 285.01482pt x 517.18219pt>
+File: Figuras/fig1.png Graphic file (type png)
+<use Figuras/fig1.png>
+Package pdftex.def Info: Figuras/fig1.png  used on input line 109.
+(pdftex.def)             Requested size: 199.509pt x 362.02505pt.
+<Figuras/prototipo.jpg, id=15, 274.02374pt x 434.37282pt>
+File: Figuras/prototipo.jpg Graphic file (type jpg)
+<use Figuras/prototipo.jpg>
+Package pdftex.def Info: Figuras/prototipo.jpg  used on input line 119.
+(pdftex.def)             Requested size: 97.563pt x 154.65744pt.
+
+Underfull \hbox (badness 1888) in paragraph at lines 126--127
+\OT1/ptm/m/n/10 s[]ao ap-re-sen-tadas informa[][]oes de-tal-hadas do jogo,
+ []
+
+<Figuras/prototipo1.png, id=16, 648.17157pt x 362.85562pt>
+File: Figuras/prototipo1.png Graphic file (type png)
+<use Figuras/prototipo1.png>
+Package pdftex.def Info: Figuras/prototipo1.png  used on input line 132.
+(pdftex.def)             Requested size: 195.12975pt x 109.23402pt.
+
+Underfull \hbox (badness 1668) in paragraph at lines 137--138
+\OT1/ptm/m/n/10 fi-del-i-dade seguiu as di-re-trizes pre-sentes no GDD
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <./Figuras/fig1.png> <./Figuras/prototipo.jpg>]
+<Figuras/mediaFidelidade.png, id=22, 709.14937pt x 462.22687pt>
+File: Figuras/mediaFidelidade.png Graphic file (type png)
+<use Figuras/mediaFidelidade.png>
+Package pdftex.def Info: Figuras/mediaFidelidade.png  used on input line 141.
+(pdftex.def)             Requested size: 195.12975pt x 127.18683pt.
+<Figuras/altaFidelidade.png, id=23, 840.13875pt x 453.19313pt>
+File: Figuras/altaFidelidade.png Graphic file (type png)
+<use Figuras/altaFidelidade.png>
+Package pdftex.def Info: Figuras/altaFidelidade.png  used on input line 150.
+(pdftex.def)             Requested size: 195.12975pt x 105.25566pt.
+<Figuras/validacao.png, id=24, 963.6pt x 542.025pt>
+File: Figuras/validacao.png Graphic file (type png)
+<use Figuras/validacao.png>
+Package pdftex.def Info: Figuras/validacao.png  used on input line 160.
+(pdftex.def)             Requested size: 195.12975pt x 109.75946pt.
+
+Underfull \hbox (badness 1635) in paragraph at lines 167--168
+[]\OT1/ptm/b/n/10 Documenta[][]ao: \OT1/ptm/m/n/10 Du-rante to-das as eta-pas d
+o pro-
+ []
+
+<Figuras/gddd.png, id=25, 283.81032pt x 386.19281pt>
+File: Figuras/gddd.png Graphic file (type png)
+<use Figuras/gddd.png>
+Package pdftex.def Info: Figuras/gddd.png  used on input line 170.
+(pdftex.def)             Requested size: 141.9048pt x 193.09592pt.
+[4 <./Figuras/prototipo1.png> <./Figuras/mediaFidelidade.png> <./Figuras/altaFi
+delidade.png> <./Figuras/validacao.png>]
+<Figuras/Diagrama.png, id=33, 367.67363pt x 284.56313pt>
+File: Figuras/Diagrama.png Graphic file (type png)
+<use Figuras/Diagrama.png>
+Package pdftex.def Info: Figuras/Diagrama.png  used on input line 197.
+(pdftex.def)             Requested size: 202.3529pt x 156.61006pt.
+<Figuras/faseTutorial.png, id=34, 703.87968pt x 445.665pt>
+File: Figuras/faseTutorial.png Graphic file (type png)
+<use Figuras/faseTutorial.png>
+Package pdftex.def Info: Figuras/faseTutorial.png  used on input line 208.
+(pdftex.def)             Requested size: 151.76854pt x 96.08812pt.
+<Figuras/fase2.png, id=35, 698.61pt x 447.92343pt>
+File: Figuras/fase2.png Graphic file (type png)
+<use Figuras/fase2.png>
+Package pdftex.def Info: Figuras/fase2.png  used on input line 214.
+(pdftex.def)             Requested size: 151.76854pt x 97.30637pt.
+<Figuras/fase3.png, id=36, 799.48688pt x 447.92343pt>
+File: Figuras/fase3.png Graphic file (type png)
+<use Figuras/fase3.png>
+Package pdftex.def Info: Figuras/fase3.png  used on input line 220.
+(pdftex.def)             Requested size: 151.76854pt x 85.0243pt.
+<Figuras/controle.png, id=37, 283.81032pt x 163.3603pt>
+File: Figuras/controle.png Graphic file (type png)
+<use Figuras/controle.png>
+Package pdftex.def Info: Figuras/controle.png  used on input line 234.
+(pdftex.def)             Requested size: 202.3529pt x 116.47768pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 243.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 243.
+ [5 <./Figuras/gddd.png> <./Figuras/Diagrama.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 353--353
+[]\OT1/ptm/b/n/8 Pensamento
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--358
+[]\OT1/ptm/m/n/8 Reconhecimento de
+ []
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 395--396
+[]\OT1/ptm/m/n/10 Com o uso de uma das vers[]oes dos pro-du-tos do
+ []
+
+[6 <./Figuras/faseTutorial.png> <./Figuras/fase2.png> <./Figuras/fase3.png> <./
+Figuras/controle.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 406--406
+[]\OT1/ptm/b/n/8 N[]ao
+ []
+
+
+Overfull \hbox (1.94438pt too wide) in paragraph at lines 406--406
+[]\OT1/ptm/b/n/8 Existem
+ []
+
+
+Overfull \hbox (7.72827pt too wide) in paragraph at lines 406--406
+[]\OT1/ptm/b/n/8 Suficiente| 
+ []
+
+
+Overfull \hbox (1.57103pt too wide) in paragraph at lines 411--412
+[]\OT1/ptm/m/n/8 Aprendizagem| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--427
+[]\OT1/ptm/m/n/8 Aten[][]ao
+ []
+
+
+Overfull \hbox (1.64983pt too wide) in paragraph at lines 403--438
+ [] 
+ []
+
+<Figuras/sam.png, id=49, 360.59718pt x 108.405pt>
+File: Figuras/sam.png Graphic file (type png)
+<use Figuras/sam.png>
+Package pdftex.def Info: Figuras/sam.png  used on input line 455.
+(pdftex.def)             Requested size: 202.3529pt x 60.83209pt.
+("SBGames-Artigo gib.bbl" [7 <./Figuras/sam.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 103--105
+[]\OT1/ptm/m/n/9 B. Learn-ing, ``What is com-pu-ta-tional think-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--105
+\OT1/ptm/m/n/9 ing,'' \OT1/ptm/m/it/9 Re-cu-per-ado de: http://www. bbc. co.
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 140.
+)
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[8] ("SBGames-Artigo gib.aux")
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3538 strings out of 492895
+ 59380 string characters out of 3133479
+ 144191 words of memory out of 3000000
+ 7417 multiletter control sequences out of 15000+200000
+ 40736 words of font info for 76 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,13n,40p,1120b,402s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/t
+imes/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "SBGames-Artigo gib.pdf" (8 pages, 6392649 bytes).
+PDF statistics:
+ 82 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+

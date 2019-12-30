@@ -1,0 +1,26 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Artigo RSL_Guib.aux
+The style file: IEEEtran.bst
+Database file #1: sbc-template.bib
+Repeated entry---line 267 of file sbc-template.bib
+ : @article{wing2006computational
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 359 of file sbc-template.bib
+ : @article{wing2006computational
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 441 of file sbc-template.bib
+ : @book{alves2015gamification
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 448 of file sbc-template.bib
+ : @article{von2018meega+
+ :                       ,
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in von2018meega+
+
+Done.
+(There were 4 error messages)
